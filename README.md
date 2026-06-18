@@ -14,7 +14,7 @@
 
 # 👩🏽‍💻 Who Am I
 
-I'm **Bridget Muturi**, an IT student and developer passionate about building solutions that combine **data, intelligent systems, and user-focused applications**.
+I'm **Bridget Muturi**, a Computer Science student and developer passionate about building solutions that combine **data, intelligent systems, and user-focused applications**.
 
 My interests span **Data Science, Networking, Mobile Applications, and Web Development**, where I enjoy solving practical problems and creating systems that improve efficiency and user experiences.
 
