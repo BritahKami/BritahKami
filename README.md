@@ -24,7 +24,7 @@ My interests span **Data Science, Networking, Mobile Applications, and Web Devel
 
 # 🚀 What I'm Currently Building
 
-### Intelligent Mastitis Detection System *(Current Project)*
+### Mastitis Detection System *(Current Project)*
 
 | Area | Description |
 |------|------------|
