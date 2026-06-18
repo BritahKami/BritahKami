@@ -1,26 +1,65 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=220&section=header&text=Bridget+Muturi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data+Science+|+Networking+|+Mobile+Apps+|+Web+Apps&descAlignY=58&descColor=67e8f9" />
 </p>
 
-# Hi there, I'm [Bridget Muturi] 👋
+<div align="center">
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+### Data Science | Networking | Mobile Development | Web Development
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+[LinkedIn](https://www.linkedin.com/in/bridget-muturi-a2aa1b358/) • Nairobi, Kenya
+
+</div>
 
 ---
 
-## Technical Ecosystem
+# 👩🏽‍💻 Who Am I
 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
+I'm **Bridget Muturi**, an IT student and developer passionate about building solutions that combine **data, intelligent systems, and user-focused applications**.
 
-### Core Competencies & Core Stack
-<img src="https://img.shields.io/badge/[Technology_1]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Technology_2]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Technology_3]-20232A?style=for-the-badge" />
+My interests span **Data Science, Networking, Mobile Applications, and Web Development**, where I enjoy solving practical problems and creating systems that improve efficiency and user experiences.
 
-### Tooling, Infrastructure & Ecosystem
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+> *"Technology becomes meaningful when it solves real-world challenges."*
+
+---
+
+# 🚀 What I'm Currently Building
+
+### Intelligent Mastitis Detection System *(Current Project)*
+
+| Area | Description |
+|------|------------|
+| 🎯 Problem | Early mastitis detection can be difficult using traditional observation methods |
+| ⚙️ Approach | Machine learning models trained on dairy health datasets |
+| 📊 Focus | Random Forest & comparative model evaluation |
+| 🎯 Goal | Support faster and more accessible mastitis detection |
+
+---
+
+# 🛠 Tech Stack
+
+## 📊 Data Science & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+---
+
+## 🌐 Networking & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+
+---
+
+## 💻 Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
 ---
 
@@ -36,14 +75,18 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BritahKami&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 </p>
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn  
+www.linkedin.com/in/bridget-muturi-a2aa1b358/
+
+📧 Email  
+mukamibridget7@gmail.com
 
 ---
 
-## Connect With Me
-
-- 💼 **Professional Network:** [https://www.linkedin.com/in/bridget-muturi-a2aa1b358/ , Portfolio, or CV]
-- 📧 **Direct Contact:** [mukamibridget7@gmail.com]
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=120&section=footer"/>
 </p>
